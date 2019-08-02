@@ -1,0 +1,7 @@
+c:\users\akhullar\source\repos\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+c:\users\akhullar\source\repos\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+c:\users\akhullar\source\repos\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+c:\users\akhullar\source\repos\HttpServer\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+c:\users\akhullar\source\repos\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.CoreCompileInputs.cache
+c:\users\akhullar\source\repos\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+c:\users\akhullar\source\repos\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
